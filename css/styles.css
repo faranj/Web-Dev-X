@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  background-color: #CDDEFF;
+  text-align: center;
+}
+
+div {
+  background-color: #CDDEFF;
+}
+
+h1 {
+  font-family: 'Vujahday Script';
+  font-size: 526.5%;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  color: #676FA3;
+}
+
+.profile {
+  background-color: #344CB7;
+  margin: 0;
+}
+
+.bottom-container {}
+
+.top-container {
+  background-color: #041C32;
+  padding-top: 100px;
+  position: relative;
+}
+
+.pro {
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.lastcon {
+  position: absolute;
+  top: 905px;
+  right: 750px;
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottomcloud {
+  position: absolute;
+}
+
+.topcloud {
+  position: absolute;
+  right: 400px;
+  top: 10px;
+}
+
+.the {
+  font-size: 200%;
+  color: #EA5C2B;
+}
+
+.middle-container {
+  background-color: #344CB7;
+}
+.skill-row{
+
+}
+.skimg{
+  width: 25%;
+}
